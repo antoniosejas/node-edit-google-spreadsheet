@@ -237,10 +237,6 @@ Thanks to `googleclientlogin` for easy Google API ClientLogin Tokens
 * https://developers.google.com/google-apps/spreadsheets/
 * https://developers.google.com/google-apps/documents-list/
 
-#### Donate
-
-BTC 1AxEWoz121JSC3rV8e9MkaN9GAc5Jxvs4
-
 #### MIT License
 
 Copyright © 2014 Jaime Pillora &lt;dev@jpillora.com&gt;
